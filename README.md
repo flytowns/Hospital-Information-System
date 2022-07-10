@@ -13,6 +13,6 @@ registration and consultation, information analysis and management, and uploadin
 
 About Files
 ------------------------------
-- Back-end (Spring Boot): 
+- Back-end (Spring Boot): /main/example/src/main
 
-- Front-end (Vue.js): 
+- Front-end (Vue.js): /vue-manage-system-master/src
